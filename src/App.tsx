@@ -5,7 +5,7 @@ import Box from "@mui/material/Box";
 const App = () => {
   return (
     <>
-      <Box display="flex" gap={4}>
+      <Box display="flex" gap={4} height="100vh">
         <Box>
           <ResponsiveDrawer />
         </Box>
