@@ -1,5 +1,5 @@
 import { Box, Divider } from "@mui/material";
-import MainProfileCard from "./main-profile-card";
+import MainProfileCard from "./main-Profile-card";
 import YourFriendCard from "./your-friend-card";
 import LastActivityCard from "./last-activity-card";
 
