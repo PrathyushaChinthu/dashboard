@@ -41,8 +41,8 @@ const MainPage = () => {
         display="flex"
         flexWrap="wrap"
         justifyContent="space-evenly"
-        gap={3}
-        mt={3}
+        gap={6}
+        mt={2}
       >
         <Card
           sx={{
